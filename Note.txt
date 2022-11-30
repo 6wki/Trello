@@ -1,0 +1,1 @@
+add window for add card using checkbox, try it first on Tests
