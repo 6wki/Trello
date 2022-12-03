@@ -61,7 +61,6 @@ img {
     justify-content: center;
     border-radius: 3px;
     transition: 0.2s 0.3s;
-    visibility: hidden;
     opacity: 0;
     cursor: default;
 }
@@ -620,7 +619,6 @@ nav ul li a {
 .add:hover .addCardApear,
 .colorContainer:hover .colorAppear {
     top: calc(100% + 10px);
-    visibility: visible;
     opacity: 1;
 }
 
