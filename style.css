@@ -62,7 +62,7 @@ img {
     border-radius: 3px;
     transition: 0.2s 0.3s;
     opacity: 0;
-    display: none;
+    visibility: hidden;
     cursor: default;
 }
 
@@ -621,7 +621,7 @@ nav ul li a {
 .colorContainer:hover .colorAppear {
     top: calc(100% + 10px);
     opacity: 1;
-    display: flex;
+    visibility: visible;
 }
 
 .secBtn:hover .filter {
